@@ -22,6 +22,7 @@ Name: Kevin Lei, York email: k19lei@my.yorku.ca, Section/Lab: Section A, Lab 02
 
 
 Project Description
+
 Tic Tac Toe is a classic and well-known game that is simple and fun to play. In this game you can play against AI and try to compete to win! It will contain notable features such as: A main menu with instructions of how to play and can also audio with an option to toggle. Given the option to choose round numbers from best of 1, 3 and 5, winning/losing will have a victory screen or defeat screen with the option to go back to the main menu or an option to restart and play again. To play, you will place Xs and Os to try and get three in a row in the following way: diagonally, horizontally, or vertically. This is an excellent game to spend your spare time on! Now it is available digitally, so you can stop wasting pen and paper. Let's waste no time and see how many rounds you could win!
 
 
