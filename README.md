@@ -24,6 +24,8 @@ Project Goals:
 Develop group work skills
 Develop programming skills
 Practice writing software requirements
+
+
 Functional Requirements:
 User can view the interface in the HTML format
 Display a 3x3 grid: This is required to play the game Tic-Tac-Toe. Computer AI and player would take turns and space Xs and Os in the grid.
