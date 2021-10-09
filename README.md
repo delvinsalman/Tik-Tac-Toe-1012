@@ -10,9 +10,13 @@ Project name: Tic Tac Toe
 Programming languages used: HTML, CSS, JavaScript
 
 Team Members
+
 Name: Delvin Salman, 
+
 York email: delvin03@my.yorku.ca, Section/Lab: Section A, Lab 01
+
 Name: Ahnaf Reaz, York email: areaz@my.yorku.ca, Section/Lab: Section A, Lab 01
+
 Name: Kevin Lei, York email: k19lei@my.yorku.ca, Section/Lab: Section A, Lab 02
 
 
@@ -27,6 +31,8 @@ Develop group work skills
 Develop programming skills
 
 Practice writing software requirements
+
+
 
 
 Functional Requirements:
