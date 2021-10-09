@@ -2,7 +2,7 @@
 Term project
 
 
-Project Phase 1
+Project Phase: 1
 
 
 Team name: MasterMind Hasbulla
@@ -11,8 +11,7 @@ Project name: Tic Tac Toe
 
 Programming languages used: HTML, CSS, JavaScript
 
-Team Members
- 
+Team Members:
 
 York email: delvin03@my.yorku.ca, Section/Lab: Section A, Lab 01
 
