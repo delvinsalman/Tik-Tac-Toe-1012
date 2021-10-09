@@ -22,7 +22,9 @@ Tic Tac Toe is a classic and well-known game that is simple and fun to play. In 
 
 Project Goals:
 Develop group work skills
+
 Develop programming skills
+
 Practice writing software requirements
 
 
