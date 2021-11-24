@@ -1,24 +1,24 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Itim', cursive;
+    font-family: 'Courier New', cursive;
 }
 
 .background {
-    background-color: #189adb;
+    background-color: rgba(24, 77, 92, 255);
     height: 100vh;
     padding-top: 1px;
 }
 
 .title {
-    color: black;
+    color: white;
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
 }
 
 .display {
-    color: black;
+    color: white;
     font-size: 25px;
     text-align: center;
     margin-top: 1em;
