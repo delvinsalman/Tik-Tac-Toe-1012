@@ -49,8 +49,6 @@ One player: computer (AI) vs. human
 
 Enter and display player name
 
-Appropriate background music: background music helps players to engage
-
 Provide option to play again: At the end of each round, the game provides an option for the player to play again
 
 Appropriate buttons
