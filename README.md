@@ -47,8 +47,6 @@ Display score details: wins, losses, and ties
 
 One player: computer (AI) vs. human
 
-Enter and display player name
-
 Provide option to play again: At the end of each round, the game provides an option for the player to play again
 
 Appropriate buttons
