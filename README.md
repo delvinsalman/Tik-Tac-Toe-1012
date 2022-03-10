@@ -27,26 +27,26 @@ Tic Tac Toe is a classic and well-known game that is simple and fun to play. In 
 
 ## Project Goals:
 
-`Develop group work skills`
+Develop group work skills
 
-`Develop programming skills`
+Develop programming skills
 
-`Practice writing software requirements`
+Practice writing software requirements
 
 ## Functional Requirements:
 
-`User can view the interface in the HTML format`
+User can view the interface in the HTML format
 
-`Display a 3x3 grid: This is required to play the game Tic-Tac-Toe. Computer AI and player would take turns and space Xs and Os in the grid`
+Display a 3x3 grid: This is required to play the game Tic-Tac-Toe. Computer AI and player would take turns and space Xs and Os in the grid
 
-`Friendly, easy to use graphical interface`
+Friendly, easy to use graphical interface
 
-`Appropriate background and text fonts`
+Appropriate background and text fonts
 
-`Display score details: wins, losses, and ties`
+Display score details: wins, losses, and ties
 
-`One player: computer (AI) vs. human`
+One player: computer (AI) vs. human
 
-`Provide option to play again: At the end of each round, the game provides an option for the player to play again`
+Provide option to play again: At the end of each round, the game provides an option for the player to play again
 
-`Appropriate buttons`
+Appropriate buttons
