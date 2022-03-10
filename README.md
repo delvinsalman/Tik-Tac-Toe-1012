@@ -13,7 +13,7 @@
 
 ## Team Members:
 
-Name: Delvin Salman, delvin03@my.yorku.ca, Section/Lab: Section A, Lab 01
+Name: Delvin Salman, York email: delvin03@my.yorku.ca, Section/Lab: Section A, Lab 01
 
 Name: Ahnaf Reaz, York email: areaz@my.yorku.ca, Section/Lab: Section A, Lab 01
 
